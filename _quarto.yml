@@ -7,9 +7,12 @@ book:
   date: "5/17/2024"
   chapters:
     - index.qmd
+    - 3-week-meal-plan.qmd
   page-navigation: true
 
 # bibliography: references.bib
+
+number-depth: 1
 
 format:
   html:
