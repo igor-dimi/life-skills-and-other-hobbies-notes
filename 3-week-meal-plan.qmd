@@ -535,14 +535,6 @@ Fragrant, warming, and perfect for a one-pot evening.
 6. Add raisins or apricots at the end if using. Adjust seasoning.
 
 
-Great — having a freezer changes a lot! It opens the door to:
-
-* **Frozen fish fillets** (salmon, pollock, cod, pangasius — often cheaper and portioned)
-* **Frozen seafood mixes** (shrimp, squid, mussels — great for soups or pasta)
-* **Batch-cooking** and storing portions of soups, sauces, rice, or stews
-* More flexible use of **seasonal fresh produce** (freeze what you don't finish)
-
-
 ### Extra - Fish
 
 #### 25. Pan-Fried Fish with Rice & Yogurt Sauce
@@ -590,9 +582,145 @@ A lightly spiced stew with tomato, bell pepper, and fish chunks.
 4. Serve with rice or couscous.
 
 
-Here is your complete **balanced 3-week dinner plan** in Markdown format, fully updated for your **24 refined meals**. You can now use this directly with **Pandoc** or **Quarto** to generate your PDF.
+Perfect — here's your new section titled **“Optional Slow Cook / Weekend Meals”** containing all 6 dried-legume-based classics. This section is formatted consistently with your main meal list and ready to be copied into your document.
+
+---
+
+## Optional Slow Cook / Weekend Meals
+
+### 1. Red Lentil Soup (Middle Eastern Style)
+
+A silky, spiced soup with cumin and lemon — fast and comforting.
+
+**Ingredients**
+
+* 1 cup red lentils (no soaking)
+* 1 onion, 2 garlic cloves
+* 1 tsp cumin, ½ tsp turmeric
+* 1 small carrot (optional)
+* Olive oil, salt, pepper
+* Juice of ½ lemon
+
+**Instructions**
+
+1. Sauté onion and garlic. Add spices, lentils, carrot, and 4 cups water.
+2. Simmer \~25 min until soft. Blend half if desired.
+3. Season with salt and lemon. Serve warm.
+
+**Freezing**: Yes — ideal for freezing in portions.
 
 
+
+### 2. Indian Chana Masala (Chickpea Curry)
+
+A richly spiced tomato-based curry with soft chickpeas.
+
+**Ingredients**
+
+* 1 cup dried chickpeas (soaked overnight, then boiled \~90 min)
+* 1 onion, 2 garlic cloves, 1 tsp ginger
+* 1 tsp cumin, 1 tsp garam masala, ½ tsp turmeric
+* 1 can diced tomatoes (or 2–3 fresh)
+* Chili, salt, lemon juice, oil
+
+**Instructions**
+
+1. Sauté onion, garlic, ginger. Add spices, tomatoes, and chickpeas.
+2. Simmer until thickened (15–20 min). Season with salt and lemon.
+
+**Freezing**: Excellent — sauce thickens beautifully on reheat.
+
+
+### 3. Chili con Carne (with Dried Kidney Beans)
+
+A warming beef and bean stew perfect for batch cooking.
+
+**Ingredients**
+
+* 1 cup dried kidney beans (soaked, then boiled \~60–75 min)
+* 250g ground beef
+* 1 onion, 2 garlic cloves
+* 2 tbsp tomato paste, 1 can diced tomatoes
+* 1 tsp cumin, 1 tsp paprika, chili to taste
+* Oil, salt, pepper
+* Optional: oregano, cocoa, dark chocolate
+
+**Instructions**
+
+1. Brown beef with onion and garlic. Add tomato paste, spices.
+2. Add tomatoes and water, simmer.
+3. Add cooked beans and simmer 20–30 min more.
+
+**Freezing**: Yes — a freezer classic.
+
+
+
+### 4. Greek Fasolada (White Bean Soup)
+
+A rustic olive-oil-rich bean soup from Greek cuisine.
+
+**Ingredients**
+
+* 1 cup dried white beans (soaked overnight, boiled 60–90 min)
+* 1 onion, 2 carrots, celery (optional)
+* 2 garlic cloves
+* 1–2 tbsp tomato paste
+* ¼ cup olive oil
+* Salt, pepper, thyme or bay leaf
+
+**Instructions**
+
+1. Sauté veg in olive oil. Add tomato paste and stir.
+2. Add beans and 3–4 cups water. Simmer 30+ min.
+3. Adjust salt. Serve with bread.
+
+**Freezing**: Very good — stir well after thawing.
+
+
+
+### 5. Mujaddara (Lentils with Rice & Caramelized Onion)
+
+Earthy, humble, and deeply satisfying.
+
+**Ingredients**
+
+* ¾ cup green or brown lentils (no soak)
+* ¾ cup rice
+* 2 large onions
+* Olive oil, salt, pepper
+* Optional: cumin
+
+**Instructions**
+
+1. Boil lentils 15 min, then add rice. Simmer together.
+2. Caramelize onions in oil until dark and sweet.
+3. Combine everything. Season generously.
+
+**Freezing**: Okay, but best fresh. Keeps 3–4 days in fridge.
+
+
+
+### 6. Spanish Chickpea & Spinach Stew (Espinacas con Garbanzos)
+
+Smoky, tangy, and rich with paprika and greens.
+
+**Ingredients**
+
+* 1 cup dried chickpeas (soaked and boiled \~90 min)
+* 1 onion, 2 garlic cloves
+* 1 tbsp tomato paste
+* 1 tsp smoked paprika
+* 200g frozen spinach (or fresh)
+* Olive oil, salt, pepper
+* Optional: sherry vinegar or lemon juice
+
+**Instructions**
+
+1. Sauté onion and garlic in olive oil. Add tomato paste and paprika.
+2. Stir in chickpeas and ½ cup water. Simmer 10 min.
+3. Add spinach and cook until combined. Finish with acid.
+
+**Freezing**: Yes — holds texture and flavor well.
 
 
 ## Shoping Blocks
@@ -666,16 +794,6 @@ Here is your complete **balanced 3-week dinner plan** in Markdown format, fully 
 | 24       | Vegetable & Chickpea Stew             |
 | 16       | Garlic Chicken with Potatoes & Greens |
 | 18       | Tuna Pasta (Olive Oil or Tomato Base) |
-
-Here are the **ingredient-level shopping lists** for each of your 8 blocks, grouped by category and formatted in Markdown — ready for PDF export.
-
-
-
-Certainly — here are the **final cleaned-up shopping lists** for each block, without icons or the word *"corrected"* in the headings. Each block includes all previously missing ingredients, organized by category.
-
-Perfect — here is the **final version of all 8 shopping blocks**, rewritten with the **fully verified and complete ingredient lists**, organized by block. Each block corresponds to 3 meals and includes all essentials and optional items.
-
-
 
 ### Shopping Block 1 – Ingredient List
 
@@ -976,10 +1094,6 @@ Perfect — here is the **final version of all 8 shopping blocks**, rewritten wi
 
 
 ## Price Estimates
-
-Certainly — here are the **updated price estimates** for each of your 8 shopping blocks, reflecting the corrected ingredient lists and current 2025 prices in a West Germany setting like **Heidelberg (Aldi/Rewe)**.
-
-
 
 ### Shopping Block 1
 
