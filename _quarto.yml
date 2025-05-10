@@ -2,15 +2,20 @@ project:
   type: book
 
 book:
+  downloads: pdf
   title: "Life Skills and Hobbies"
   author: "Igor Dimitrov"
   date: "5/17/2024"
   chapters:
     - index.qmd
-    - 3-week-meal-plan.qmd
+    - part: "Cooking"
+      chapters:
+        - 3-week-meal-plan.qmd
+        - cooking-improvement.qmd
   page-navigation: true
 
 # bibliography: references.bib
+
 
 number-depth: 1
 
