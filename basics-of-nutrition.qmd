@@ -1,0 +1,85 @@
+---
+title: Basics of Nutrition
+---
+
+
+## 1. Macronutrients — The Body's Primary Fuel and Building Blocks
+
+Macronutrients are nutrients needed in large amounts and provide energy (calories):
+
+| Macronutrient | Main Functions                               | Calories per gram | Found In                            |
+| ------------- | -------------------------------------------- | ----------------- | ----------------------------------- |
+| Carbohydrates | Main source of energy                        | 4 kcal            | Grains, fruits, legumes, vegetables |
+| Proteins      | Builds and repairs tissue; enzymes, hormones | 4 kcal            | Meat, dairy, legumes, eggs, tofu    |
+| Fats          | Energy storage, hormones, cell membranes     | 9 kcal            | Oils, nuts, seeds, avocado, fish    |
+| Water         | Hydration, transport, temperature regulation | 0                 | All foods and fluids                |
+| Fiber (carb)  | Digestive health, blood sugar regulation     | 0 (indigestible)  | Whole grains, vegetables, legumes   |
+
+Approximate daily recommendations (based on a 2000 kcal diet):
+
+* Carbs: 45–65% of daily calories → \~225–325 g
+* Protein: 10–35% → \~50–175 g (average need: \~0.8–1.2 g/kg body weight)
+* Fat: 20–35% → \~44–78 g
+
+---
+
+## 2. Micronutrients — The Small Players with Big Roles
+
+Micronutrients are nutrients needed in small amounts, but are essential for health, growth, and cellular function. They don’t provide energy, but they enable your body to function.
+
+Vitamins (organic compounds):
+Support immunity, energy metabolism, skin, vision, nerve function, blood health, and more.
+
+Minerals (inorganic elements):
+Support bone structure, nerve transmission, fluid balance, oxygen transport, and enzyme activity.
+
+Examples with daily needs and common sources:
+
+| Micronutrient | Daily Dose            | Common Sources                       | Function                        |
+| ------------- | --------------------- | ------------------------------------ | ------------------------------- |
+| Vitamin A     | 700–900 µg            | Carrots, liver, sweet potato         | Vision, skin, immune system     |
+| Vitamin C     | 75–90 mg              | Citrus, peppers, broccoli            | Antioxidant, collagen synthesis |
+| Vitamin D     | 15–20 µg (600–800 IU) | Sunlight, fatty fish, fortified milk | Bone health, calcium absorption |
+| Vitamin B12   | 2.4 µg                | Meat, fish, dairy, eggs              | Nerve function, red blood cells |
+| Iron          | 8–18 mg               | Red meat, spinach, legumes           | Oxygen transport                |
+| Calcium       | 1000–1200 mg          | Dairy, tofu, leafy greens            | Bones, muscle contraction       |
+| Magnesium     | 310–420 mg            | Nuts, whole grains, leafy greens     | Muscle and nerve function       |
+| Zinc          | 8–11 mg               | Meat, legumes, seeds                 | Immune function, wound healing  |
+| Iodine        | 150 µg                | Iodized salt, seafood, dairy         | Thyroid hormone production      |
+
+These values vary slightly depending on age, sex, and life stage.
+
+---
+
+## 3. Food Groups — How Nutrients Appear in Real Foods
+
+Food groups are practical categories of whole foods that provide a variety of macro- and micronutrients.
+
+| Food Group    | Main Nutrients Provided                          |
+| ------------- | ------------------------------------------------ |
+| Fruits        | Carbohydrates, fiber, vitamin C, potassium       |
+| Vegetables    | Fiber, vitamins A/K/C, magnesium, antioxidants   |
+| Grains        | Carbohydrates, B-vitamins, fiber (whole grains)  |
+| Protein Foods | Protein, iron, B12, zinc, fats (animal or plant) |
+| Dairy         | Protein, calcium, vitamin D, B12                 |
+| Fats & Oils   | Fats (esp. unsaturated), vitamin E               |
+
+A balanced diet combines all food groups, ensuring you get:
+
+* All macronutrients for energy and structure
+* All micronutrients for regulation and support
+
+---
+
+## 4. What a Healthy Diet Looks Like (In Practice)
+
+* Half your plate = vegetables and fruits
+* One quarter = whole grains (rice, oats, bread)
+* One quarter = protein foods (legumes, meat, tofu, eggs)
+* A small amount of healthy fats (olive oil, nuts, seeds)
+* Plenty of water
+* Some dairy or dairy alternatives
+* Variety over time ensures full nutrient coverage
+
+---
+
