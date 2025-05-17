@@ -12,6 +12,7 @@ book:
       chapters:
         - basics-of-nutrition.qmd
         - 3-week-meal-plan.qmd
+        - simple-baking.qmd
         - cooking-improvement.qmd
         - non-thermal-food.qmd
   page-navigation: true

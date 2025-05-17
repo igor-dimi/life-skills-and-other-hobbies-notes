@@ -1,0 +1,271 @@
+---
+title: "Simple Baking"
+---
+
+*Understanding Bread, Dough, and Cake Without an Oven*
+
+## I. Breads and Bread Types: Foundations of Baking
+
+### What is Bread?
+
+Bread is one of the oldest and most fundamental prepared foods in human history. At its simplest, it is made from **flour and water**, transformed through **leavening** and **heat** into a soft, airy, or chewy structure. The choice of flour, leavening, and technique defines the texture, taste, and cultural style of the bread.
+
+In its leanest form, bread contains:
+
+* Flour (from wheat, rye, spelt, etc.)
+* Water
+* Salt
+* A leavening agent (yeast or sourdough)
+
+Optional enrichments (milk, eggs, sugar, butter) shift the result toward pastries or sweet breads.
+
+### How Bread is Made
+
+Understanding how bread is made helps demystify the process. Here’s a breakdown of the main steps, with notes on their purpose:
+
+1. **Mixing Ingredients**
+   Combine flour, water, salt, and yeast (or sourdough). This begins gluten formation and hydrates the starches.
+
+2. **Kneading**
+   Kneading develops **gluten**, a stretchy protein network that makes the dough elastic. This elasticity is crucial for holding the gas that makes bread rise.
+
+3. **First Rise (Bulk Fermentation)**
+   The yeast (or sourdough) consumes sugars in the flour and releases **carbon dioxide (CO₂)**. The dough expands, developing both structure and flavor.
+
+4. **Shaping and Second Rise**
+   The dough is gently deflated and shaped into loaves or rolls. It rests again to allow a final rise before baking.
+
+5. **Baking or Cooking**
+   Heat causes one last burst of CO₂ release. Proteins and starches set, and the crust browns through the Maillard reaction.
+
+6. **Cooling**
+   Bread should cool completely to allow the crumb (interior) to finish setting and moisture to redistribute.
+
+
+
+### What is Gluten?
+
+Gluten is a network of proteins (mainly gliadin and glutenin) formed when flour is mixed with water. In bread, gluten:
+
+* Traps CO₂ gas from yeast fermentation
+* Gives dough its elasticity and stretch
+* Helps bread rise and form an open crumb
+
+More kneading leads to stronger gluten and more structure. Without gluten, bread would be flat and dense.
+
+
+
+### Bread Types and Grains
+
+Bread can be made from many grains, each producing different textures and flavors.
+
+**Wheat (Weizen):**
+High gluten, soft, airy structure. Common in baguettes, toast bread, and rolls.
+
+**Rye (Roggen):**
+Low gluten, denser texture. Earthy, sour flavor. Often used with sourdough for structure.
+
+**Spelt (Dinkel):**
+An ancient wheat relative with moderate gluten. Slightly nutty, softer, and often easier to digest.
+
+
+
+### Bread Labels in Germany
+
+| Label           | Meaning                                            |
+| --------------- | -------------------------------------------------- |
+| Vollkornbrot    | Whole grain bread (at least 90% whole flour)       |
+| Mehrkornbrot    | Multigrain bread (2+ grains, not always whole)     |
+| Dinkelbrot      | Spelt bread (check for "Vollkorn" for whole grain) |
+| Roggenmischbrot | Rye-wheat mix bread (51–89% rye flour)             |
+
+
+
+### Leavening Agents: Yeast and Sourdough
+
+**Yeast**
+Yeast is a single-celled fungus (*Saccharomyces cerevisiae*). In bread, it feeds on sugars in the flour, producing carbon dioxide that makes the dough rise. It also contributes to mild, pleasant flavors.
+
+**Sourdough**
+Sourdough is a natural starter containing wild yeast and lactic acid bacteria. It ferments slowly and gives bread a distinctive tang and improved digestibility. Sourdough also keeps bread fresher longer due to its acidity.
+
+
+
+### Enriched Doughs vs. Simple Bread Dough
+
+**Lean dough** contains only flour, water, salt, and yeast or sourdough. It produces chewy, crisp breads like ciabatta, Vollkornbrot, and baguettes.
+
+**Enriched dough** includes eggs, butter, sugar, or milk. It produces soft, sweet, or tender breads like brioche, challah, and Hefezopf. These rise more slowly due to the added fats and sugars and spoil faster.
+
+
+
+### Cakes and Batters: Baking Soda and Powder
+
+Unlike breads, cakes and pies use **chemical leavening** instead of biological fermentation.
+
+**Baking soda** (sodium bicarbonate) reacts with acidic ingredients like yogurt, banana, or lemon juice to release CO₂ quickly.
+**Baking powder** contains both baking soda and a dry acid and activates with moisture and heat.
+
+These leavening agents make batter rise quickly during cooking. The structure is created not by gluten, but by a delicate matrix of eggs, flour, and air.
+
+| Dough Type      | Leavening          | Texture         | Examples               |
+| --------------- | ------------------ | --------------- | ---------------------- |
+| Bread Dough     | Yeast/Sourdough    | Chewy, elastic  | Baguette, Vollkornbrot |
+| Enriched Dough  | Yeast              | Soft, rich      | Brioche, Zopf          |
+| Cake/Pie Batter | Baking soda/powder | Crumbly, tender | Cake, muffins          |
+
+
+
+## II. Recipes for Stovetop and Rice Cooker Baking
+
+All recipes are adapted for setups without an oven and are beginner-friendly.
+
+
+
+### Chapati (Roti)
+
+Unleavened flatbread; quick and excellent with soups, dips, or spreads.
+
+**Ingredients (makes 4):**
+
+* 1 cup whole wheat flour
+* ½ cup warm water
+* ½ tsp salt
+* 1 tsp oil (optional)
+
+**Instructions:**
+
+1. Mix flour and salt in a bowl. Gradually add warm water while mixing with your hand or spoon until a rough dough forms. It should be soft but not sticky.
+2. Knead the dough for 5–7 minutes on a clean surface until smooth and elastic.
+3. Cover and let rest for 15–30 minutes to relax the gluten.
+4. Divide dough into 4 equal pieces. Roll each into a ball, then flatten and roll out into thin circles (\~15–18 cm in diameter).
+5. Heat a dry skillet over medium-high heat. Place one chapati in the hot pan.
+6. Cook 30 seconds or until light bubbles form, flip, cook another 30 seconds. Flip again and press gently with a spatula to encourage puffing.
+7. Transfer to a clean cloth and optionally brush with oil or ghee. Repeat with remaining dough.
+
+
+
+### Banana Oat Pancakes
+
+Flourless, naturally sweet, and perfect for breakfast or snack.
+
+**Ingredients (makes 4 small pancakes):**
+
+* 1 ripe banana
+* 1 egg
+* ⅓ cup rolled oats
+* ½ tsp baking powder
+* Pinch of cinnamon or vanilla (optional)
+* Butter or oil for the pan
+
+**Instructions:**
+
+1. Mash the banana thoroughly in a bowl until smooth.
+2. Add egg and whisk together until well combined.
+3. Stir in oats, baking powder, and optional spices. Let sit 5 minutes to thicken slightly.
+4. Heat a non-stick or lightly oiled pan over medium-low heat.
+5. Spoon batter into pan to form small pancakes (\~2 tablespoons each). Flatten slightly with the back of the spoon.
+6. Cook for 2–3 minutes or until edges look dry and the bottom is golden. Flip carefully and cook another 2–3 minutes.
+7. Serve warm with yogurt, nut butter, or fresh fruit.
+
+
+
+### Simple Yeasted Skillet Bread
+
+A basic yeast bread cooked entirely in a covered pan.
+
+**Ingredients:**
+
+* 1 cup flour (wheat or spelt)
+* ½ tsp salt
+* ½ tsp dry yeast
+* ½ cup warm water (adjust as needed)
+* 1 tsp oil (optional)
+
+**Instructions:**
+
+1. Mix flour, salt, and yeast in a bowl. Add warm water gradually and stir until a sticky, shaggy dough forms.
+2. Knead for 8–10 minutes on a lightly floured surface until dough is smooth and elastic. It should stretch without tearing.
+3. Shape into a ball and place in a lightly oiled bowl. Cover with a towel and let rise for 1 hour or until doubled in size.
+4. Lightly flour your hands and deflate the dough. Shape into a thick disc (\~12–15 cm diameter).
+5. Preheat a pan over low heat and lightly oil it.
+6. Place dough in pan, cover with lid or foil. Cook on very low heat for 10–12 minutes. The bottom should be firm and golden.
+7. Flip the bread carefully, then cook uncovered for 8–10 minutes more. Tap the top — it should sound hollow when done.
+8. Let cool on a rack or towel for at least 10 minutes before slicing.
+
+
+
+### Rice Cooker Banana Cake
+
+A moist, sliceable cake made without an oven.
+
+**Ingredients:**
+
+* 2 ripe bananas
+* 1 egg
+* 2 tbsp sugar
+* 2 tbsp oil or melted butter
+* ¾ cup flour (all-purpose or spelt)
+* 1 tsp baking powder
+* Pinch of salt
+* Optional: vanilla, chopped nuts, or chocolate chips
+
+**Instructions:**
+
+1. Grease the rice cooker bowl with butter or oil.
+2. In a mixing bowl, mash the bananas until very smooth.
+3. Add egg, sugar, oil, and vanilla (if using). Mix well with a fork or whisk.
+4. In a separate bowl, mix flour, baking powder, and salt.
+5. Add dry ingredients to wet mixture. Stir gently until just combined. Do not overmix.
+6. Pour batter into the rice cooker bowl and smooth the top.
+7. Close the lid and press “cook.” If it switches to “warm” after a few minutes, wait 2 minutes, then press “cook” again.
+8. Repeat as needed until the total cooking time reaches about 40–50 minutes.
+9. Check doneness with a toothpick or fork — it should come out clean or with only a few crumbs.
+10. Let cake cool slightly, then remove carefully and slice.
+
+
+
+### Cocoa-Banana Rice Cooker Cake
+
+A chocolate variation of the banana cake.
+
+**Additional ingredients:**
+
+* 2 tbsp unsweetened cocoa powder
+* Optional: chocolate chips or chopped nuts
+
+**Instructions:**
+
+1. Follow the same base recipe as above.
+2. Add cocoa powder with the dry ingredients in step 4.
+3. Fold in chocolate chips or nuts before pouring into rice cooker.
+
+The result is a soft, moist, gently sweet cake with a satisfying cocoa flavor — a stovetop-friendly comfort dessert.
+
+
+
+## III. Bread Storage and Shelf Life
+
+### Room Temperature (1–3 days)
+
+* Store in a paper bag, cloth, or bread box.
+* Avoid plastic bags; they trap moisture and promote mold.
+
+### Refrigeration (3–7 days)
+
+* Not ideal, as it accelerates staling.
+* Use only for very moist breads in hot weather.
+* Wrap in a towel and store in a plastic bag to minimize drying.
+
+### Freezing (Best for long-term)
+
+* Slice before freezing.
+* Wrap slices in parchment or foil, then place in freezer bag.
+* Defrost at room temperature or toast directly from frozen.
+
+
+### Closing Thoughts
+
+This chapter has explored the fundamental concepts behind bread, leavening, and baking without an oven, while also equipping you with concrete, easy-to-follow recipes adapted for stovetop and rice cooker use.
+
+Whether you make a rustic skillet bread, a soft rice cooker banana cake, or a quick pan-fried chapati, each of these recipes is a window into traditional techniques made accessible. As you repeat them, you’ll gain not only confidence but also an intuitive understanding of how flour, water, and air become something greater than the sum of their parts.
