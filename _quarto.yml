@@ -15,6 +15,8 @@ book:
         - simple-baking.qmd
         - cooking-improvement.qmd
         - non-thermal-food.qmd
+        - pressure-cooker.qmd
+        - utensils.qmd
   page-navigation: true
 
 # bibliography: references.bib
